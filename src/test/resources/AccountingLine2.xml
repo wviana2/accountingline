@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AccountingLine id="742" index="1" elementId="PNR-572">
+    <TypeIndicator>PLXT-05</TypeIndicator>
+    <FareApplication>ONE</FareApplication>
+    <FormOfPaymentCode>KL5-HJ</FormOfPaymentCode>
+    <LinkCode>101</LinkCode>
+    <AccountingVendorCode>CMP</AccountingVendorCode>
+    <ChargeCategoryCoded>XBR</ChargeCategoryCoded>
+    <AirlineDesignator>TWA</AirlineDesignator>
+    <DocumentNumber>6457781143</DocumentNumber>
+    <CommissionPercentage>2</CommissionPercentage>
+    <CommissionAmount>2</CommissionAmount>
+    <BaseFare>3267.75</BaseFare>
+    <BasePercent>5</BasePercent>
+    <TaxPercentage>1</TaxPercentage>
+    <TaxAmount>532.79</TaxAmount>
+    <TaxSurchargeCode2>VAT</TaxSurchargeCode2>
+    <GSTCode>JDY-UI</GSTCode>
+    <GSTAmount>10</GSTAmount>
+    <GSTPercent>1</GSTPercent>
+    <QSTCode>HHL-90</QSTCode>
+    <QSTAmount>10</QSTAmount>
+    <QSTPercent>1</QSTPercent>
+    <CreditCardNumber>123456789</CreditCardNumber>
+    <CreditCardCode>AX0</CreditCardCode>
+    <PassengerName>Michael</PassengerName>
+    <NumberOfConjunctedDocuments>43-PFH-EXP508</NumberOfConjunctedDocuments>
+    <NumberOfCoupons>1</NumberOfCoupons>
+    <OriginalTicketNumber>AC099445</OriginalTicketNumber>
+    <OriginalDateOfIssue>2022-01-15</OriginalDateOfIssue>
+    <OriginalPlaceOfIssue>MNL</OriginalPlaceOfIssue>
+    <FullPartialExchangeIndicator>90J</FullPartialExchangeIndicator>
+    <OriginalInvoice>939475845</OriginalInvoice>
+    <TarriffBasis>JKRT</TarriffBasis>
+    <FreeFormText>Passenger prefers business class</FreeFormText>
+    <CurrencyCode>USD</CurrencyCode>
+    <SegmentType>AIR</SegmentType>
+    <SegmentNumber>1</SegmentNumber>
+</AccountingLine>
